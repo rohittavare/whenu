@@ -20,7 +20,7 @@ networkx==2.0
 numpy==1.13.3
 olefile==0.44
 pbr==1.10.0
-protobuf==3.0.0b2
+protobuf==3.18.3
 psycopg2==2.7.3.2
 py2app==0.7.3
 pyparsing==2.2.0
